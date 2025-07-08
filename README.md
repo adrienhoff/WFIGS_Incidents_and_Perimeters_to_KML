@@ -55,17 +55,11 @@ Load the python scripts provided: WFIGS_Incidents.py and WFIGS_Interagency_Perim
 
 10\. Open and refresh the location of your exported KML.
 
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-07/1d6af76b-dcdd-4e5b-b3c3-c1cb0dceed90/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=147,31)
-
 
 11\. Perimeters were exported to KML directly. Incident Points were zipped in KMZ and also exported in KML. This is due to a need for packaging the proper symbology. Both the KML and KMZ should work in Google Earth.
 
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-07/413ab96b-51c6-423d-a0a6-b4a70e4bf5e9/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=289,143)
-
 
 12\. Double-click the incident KML or KMZ and the perimeter KML
-
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-07/a990f11e-7e1a-4f71-b838-b87192240f6f/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=274,172)
 
 
 13\. If Google Earth is your default, the KML/KMZ will open here. Otherwise you can drag the files in as well.
@@ -79,8 +73,6 @@ Load the python scripts provided: WFIGS_Incidents.py and WFIGS_Interagency_Perim
 
 
 15\. Open the Perimeters KML
-
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-07/f359b91a-05d3-458d-a79a-7164cf7ab5d0/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=280,150)
 
 
 16\. Turn off the incident points at first to see the perimeters more clearly.
